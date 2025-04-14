@@ -16,8 +16,6 @@ A full-stack **Car Rental Web Application** built using **React** for the fronte
 - Node.js
 - Express.js
 - MongoDB / PostgreSQL (choose one)
-- JWT Authentication
-- Bcrypt
 
 ---
 
