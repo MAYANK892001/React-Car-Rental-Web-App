@@ -43,3 +43,9 @@ A full-stack **Car Rental Web Application** built using **React** for the fronte
 - MongoDB/PostgreSQL running locally or a cloud DB
 - npm or yarn
 
+
+## 🖼️ Live Demo Preview
+
+![Car Rental Web App Screenshot]![Screenshot (14)](https://github.com/user-attachments/assets/0f9a4e0c-5e8d-4f95-bd5c-d36e5565aee2)
+
+
